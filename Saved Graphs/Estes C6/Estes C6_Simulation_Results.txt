@@ -1,0 +1,49 @@
+Parameters of Estes C6:
+
+	Rocket Drag Parameters: 
+		Coefficient of drag of rocket: 0.5
+		Coefficient of drag of parachute: 1.75
+		Cross sectional area of rocket: 0.00114 m^2
+		Cross sectional area of parachute: 0.073 m^2
+
+	Rocket Mass Parameters:
+		Initial mass: 0.04855 kg
+		Final mass: 0.03775 kg
+		Average mass flow rate: -0.00580754 kg/s
+		Specific Impulse: 82.9487 s
+
+	Rocket Thrust Parameters:
+		Primary phase duration: 0.192 s
+		Primary phase conclusive thrust: 14.09 N
+		Secondary phase duration: 0.05665 s
+		Secondary phase conclusive thrust: 4.345 N
+		Tertiary phase duration: 1.572 s
+		Tertiary phase conclusive thrust: 4.345 N
+		Quaternary phase duration: 0.039 s
+		Quaternary phase conclusive thrust: 0 N
+		Average thrust: 4.72575 N
+		Total impulse: 8.78877 N*s
+		Time of burn: 1.85965 s
+
+---------------------------------------------------------------------------------------------------------------------
+
+Simulation Results: 
+
+	Maximum Values:
+		Maximum Acceleration: 295.247 m/s^2 at T+ 0.192 seconds
+		Maximum Velocity: 107.565 m/s at T+ 1.82509 seconds
+		Maximum Altitude: 269.269 m at T+ 6.11414 seconds
+		Maximum Thrust: 14.09 N at T+ 0.192 seconds
+		Maximum Net Force Experienced: 13.3807 N at T+ 0.192 seconds
+
+	Other Values:
+		Velcity at touchdown: 2.17554 m/s
+		Total impulse of rocket: 8.78877 N*s
+		Time of powered flight: 1.85965 seconds
+		Time to apogee: 6.11414 seconds
+		Total time of flight: 129.288 seconds
+
+Graph saved at: C:\Program Files(x86)\Rocket Simulator v2.0\Saved Graphs\Estes C6\Estes C6_Simulation.csv
+
+---------------------------------------------------------------------------------------------------------------------
+

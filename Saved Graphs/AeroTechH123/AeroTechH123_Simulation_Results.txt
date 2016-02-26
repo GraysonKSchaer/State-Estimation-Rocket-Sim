@@ -1,0 +1,49 @@
+Parameters of AerotechH123:
+
+	Rocket Drag Parameters: 
+		Coefficient of drag of rocket: 0.5
+		Coefficient of drag of parachute: 1.75
+		Cross sectional area of rocket: 0.00487 m^2
+		Cross sectional area of parachute: 0.2918 m^2
+
+	Rocket Mass Parameters:
+		Initial mass: 1.045 kg
+		Final mass: 0.916 kg
+		Average mass flow rate: -0.043 kg/s
+		Specific Impulse: 169.108 s
+
+	Rocket Thrust Parameters:
+		Primary phase duration: 0.2 s
+		Primary phase conclusive thrust: 138.42 N
+		Secondary phase duration: 0.2 s
+		Secondary phase conclusive thrust: 116.45 N
+		Tertiary phase duration: 0.4 s
+		Tertiary phase conclusive thrust: 116.45 N
+		Quaternary phase duration: 2.2 s
+		Quaternary phase conclusive thrust: 0 N
+		Average thrust: 71.3347 N
+		Total impulse: 214.004 N*s
+		Time of burn: 3 s
+
+---------------------------------------------------------------------------------------------------------------------
+
+Simulation Results: 
+
+	Maximum Values:
+		Maximum Acceleration: 124.445 m/s^2 at T+ 0.2 seconds
+		Maximum Velocity: 151.467 m/s at T+ 2.26265 seconds
+		Maximum Altitude: 762.294 m at T+ 11.4581 seconds
+		Maximum Thrust: 138.42 N at T+ 0.2 seconds
+		Maximum Net Force Experienced: 128.058 N at T+ 0.2 seconds
+
+	Other Values:
+		Velcity at touchdown: 5.36044 m/s
+		Total impulse of rocket: 214.004 N*s
+		Time of powered flight: 3 seconds
+		Time to apogee: 11.4581 seconds
+		Total time of flight: 151.49 seconds
+
+Graph saved at: C:\Program Files(x86)\Rocket Simulator v2.0\Saved Graphs\AerotechH123\AerotechH123_Simulation.csv
+
+---------------------------------------------------------------------------------------------------------------------
+

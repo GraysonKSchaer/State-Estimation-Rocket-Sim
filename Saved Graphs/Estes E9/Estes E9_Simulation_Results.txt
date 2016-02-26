@@ -1,0 +1,49 @@
+Parameters of Estes E9:
+
+	Rocket Drag Parameters: 
+		Coefficient of drag of rocket: 0.5
+		Coefficient of drag of parachute: 1.75
+		Cross sectional area of rocket: 0.00203 m^2
+		Cross sectional area of parachute: 0.073 m^2
+
+	Rocket Mass Parameters:
+		Initial mass: 0.1579 kg
+		Final mass: 0.1221 kg
+		Average mass flow rate: -0.0115858 kg/s
+		Specific Impulse: 77.3892 s
+
+	Rocket Thrust Parameters:
+		Primary phase duration: 0.269 s
+		Primary phase conclusive thrust: 19.47 N
+		Secondary phase duration: 0.126 s
+		Secondary phase conclusive thrust: 8.588 N
+		Tertiary phase duration: 2.613 s
+		Tertiary phase conclusive thrust: 8.588 N
+		Quaternary phase duration: 0.082 s
+		Quaternary phase conclusive thrust: 0 N
+		Average thrust: 8.79577 N
+		Total impulse: 27.1789 N*s
+		Time of burn: 3.09 s
+
+---------------------------------------------------------------------------------------------------------------------
+
+Simulation Results: 
+
+	Maximum Values:
+		Maximum Acceleration: 117.798 m/s^2 at T+ 0.269 seconds
+		Maximum Velocity: 106.661 m/s at T+ 3.02185 seconds
+		Maximum Altitude: 393.251 m at T+ 8.39074 seconds
+		Maximum Thrust: 19.47 N at T+ 0.269 seconds
+		Maximum Net Force Experienced: 17.8288 N at T+ 0.269 seconds
+
+	Other Values:
+		Velcity at touchdown: 3.9127 m/s
+		Total impulse of rocket: 27.1789 N*s
+		Time of powered flight: 3.09 seconds
+		Time to apogee: 8.39074 seconds
+		Total time of flight: 108.258 seconds
+
+Graph saved at: C:\Program Files(x86)\Rocket Simulator v2.0\Saved Graphs\Estes E9\Estes E9_Simulation.csv
+
+---------------------------------------------------------------------------------------------------------------------
+
